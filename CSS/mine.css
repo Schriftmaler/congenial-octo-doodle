@@ -1,0 +1,20 @@
+#lbl {
+    border-color: blue;
+    height: 45%;
+    width: 45%;
+}
+#menu {
+    border-radius: 5px;
+    border-style: outset;
+    border-color: grey;
+    border-top-width: 1px;
+    border: 1px solid rgb(22, 21, 21);
+    background-color: rgb(211, 211, 211);
+    height: 5%;
+    width: 100%;
+    float: left;
+}
+#rbl{
+    height: 45%;
+    width:45%;
+}
